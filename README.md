@@ -5,7 +5,7 @@ Global Sequence Alignment of two input sequences using affine gap penalty functi
 (Needleman-Wunch dynamic programming algorithm)
 
 ### Multiple Sequence Alignment
-Sequence Alignment of the input sequences using the Star progressive alignment algorithm.
+Sequence Alignment of the input sequences using the **Star** progressive alignment algorithm.
 
 ### Profile HMM for Sequence Alignment
 Given the number of input sequences, followed by a column gaps threshold θ, followed by a multiple sequence alignment (either Protein or DNA sequences), followed by a test sequence,
