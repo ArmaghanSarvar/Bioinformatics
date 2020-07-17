@@ -1,7 +1,7 @@
 ## Bioinformatics
 This repository includes the implementation of the following Algorithms:
 ### Pairwise Sequence Alignment:
-Global Sequence Alignment of two input sequences using affine gap penalty function
+Global Sequence Alignment of two input sequences using affine gap penalty function.
 (Needleman-Wunch dynamic programming algorithm)
 
 ### Multiple Sequence Alignment:
