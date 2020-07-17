@@ -1,13 +1,13 @@
 ## Bioinformatics
 This repository includes the implementation of the following Algorithms:
-### Pairwise Sequence Alignment:
+### Pairwise Sequence Alignment
 Global Sequence Alignment of two input sequences using affine gap penalty function.
 (Needleman-Wunch dynamic programming algorithm)
 
-### Multiple Sequence Alignment:
+### Multiple Sequence Alignment
 Sequence Alignment of the input sequences using the Star progressive alignment algorithm.
 
-### Profile HMM for Sequence Alignment:
+### Profile HMM for Sequence Alignment
 Given the number of input sequences, followed by a column gaps threshold θ, followed by a multiple sequence alignment (either Protein or DNA sequences), followed by a test sequence,
 * The transition and emission probabilities of the profile HMM HMM(Alignment, θ) are initiated
 * The forward and backward algorithms are implemented
