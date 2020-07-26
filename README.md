@@ -15,7 +15,7 @@ Given the number of input sequences, followed by a column gaps threshold θ, fol
 * The most likely sequence of hidden states (Viterbi path) is found using the Viterbi algorithm and the aligned output sequence is finally returned. 
 
 ### Drawing Phylogenetic trees 
-Using Biopython Phylo Package to work with Phylogenetic trees:
+Using Biopython Phylo Package to work with Phylogenetic trees. It includes the generation of the following trees:
 * UPGMA constructed tree
 * Neighbor Joining constructed tree
 * Maximum Parsimony constructed tree
