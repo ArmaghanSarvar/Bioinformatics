@@ -14,4 +14,5 @@ Given the number of input sequences, followed by a column gaps threshold θ, fol
 * The Hidden Markov model is trained using the Baum-Welch learning algorithm and the input MSA.
 * The most likely sequence of hidden states (Viterbi path) is found using the Viterbi algorithm and the aligned output sequence is finally returned. 
 
-### Using Biopython Phylo Package to work with Phylogenetic trees 
+### Drawing Phylogenetic trees 
+Using Biopython Phylo Package to work with Phylogenetic trees 
