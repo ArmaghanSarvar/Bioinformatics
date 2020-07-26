@@ -16,7 +16,7 @@ Given the number of input sequences, followed by a column gaps threshold θ, fol
 
 ### Drawing Phylogenetic trees 
 Using Biopython Phylo Package to work with Phylogenetic trees:
-* UPGMA constructred tree
-* Neighbor Joining constructred tree
-* Maximum Parsimony constructred tree
+* UPGMA constructed tree
+* Neighbor Joining constructed tree
+* Maximum Parsimony constructed tree
 
